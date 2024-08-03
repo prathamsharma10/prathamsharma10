@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pratham Sharma</h1>
-<h3 align="center">A passionate Fullstack developer from India</h3>
+<h3 align="center">A passionate Frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prathamsharma10&label=Profile%20views&color=0e75b6&style=flat" alt="prathamsharma10" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **job opportunities and internships**
 
-- 💬 Ask me about **Full Stack Development**
+- 💬 Ask me about **Frontend Development**
 
 - 📫 How to reach me **psharma150103@gmail.com**
 
